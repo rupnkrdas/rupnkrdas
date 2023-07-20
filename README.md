@@ -29,8 +29,6 @@ I'm Rupankar, a passionate tech enthusiast with a flair for building apps adorne
 
 </td></tr></table>
 
-<br/>
-
 ## Languages and Tools
 
 <div>  
@@ -46,14 +44,8 @@ I'm Rupankar, a passionate tech enthusiast with a flair for building apps adorne
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
 </div>
 
-<br/>
-
 ## Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupnkrdas&theme=gotham)
 
-<br/>
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)
-
-<br/>
+![Profile views counter](https://komarev.com/ghpvc/?username=rupnkrdas&&style=flat-square)
