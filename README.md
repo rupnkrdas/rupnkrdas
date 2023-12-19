@@ -16,9 +16,9 @@ I'm Rupankar, a passionate tech enthusiast with a flair for building apps adorne
 
 <table><tr><td valign="top" width="50%">
 
-- 🌱 I’m currently learning about Data Stuctures and Algorithms
+-   🌱 I’m currently learning about Data Stuctures and Algorithms
 
-- 💤 Fun fact: I've declared eternal "Do Not Disturb" mode
+-   💤 Fun fact: I've declared eternal "Do Not Disturb" mode
 
 </td><td valign="top" width="50%">
 
@@ -36,6 +36,7 @@ I'm Rupankar, a passionate tech enthusiast with a flair for building apps adorne
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
