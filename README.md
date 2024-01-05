@@ -52,3 +52,5 @@ I'm Rupankar, a passionate tech enthusiast with a flair for building apps adorne
 ## Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupnkrdas&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rupnkrdas&theme=gotham)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rupnkrdas&theme=gotham&utcOffset=8)
